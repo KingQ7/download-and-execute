@@ -1,0 +1,14 @@
+C:\Users\ronf5\source\repos\download and execute\download and execute\bin\Debug\net8.0\download and execute.exe
+C:\Users\ronf5\source\repos\download and execute\download and execute\bin\Debug\net8.0\download and execute.deps.json
+C:\Users\ronf5\source\repos\download and execute\download and execute\bin\Debug\net8.0\download and execute.runtimeconfig.json
+C:\Users\ronf5\source\repos\download and execute\download and execute\bin\Debug\net8.0\download and execute.dll
+C:\Users\ronf5\source\repos\download and execute\download and execute\bin\Debug\net8.0\download and execute.pdb
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.AssemblyInfoInputs.cache
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.AssemblyInfo.cs
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.csproj.CoreCompileInputs.cache
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.dll
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\refint\download and execute.dll
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.pdb
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\download and execute.genruntimeconfig.cache
+C:\Users\ronf5\source\repos\download and execute\download and execute\obj\Debug\net8.0\ref\download and execute.dll
